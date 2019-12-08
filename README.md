@@ -1,3 +1,5 @@
+<div dir="rtl">
+    
 # מסכת ברכות המנוקד
 
 מסכת ברכות המנוקד הושק לרגל סיום הדף היומי!
@@ -40,4 +42,4 @@
 
 The William Davidson digital edition of the Koren Noé Talmud, was released by Koren Publishers, Nikud (vocalization) by Dicta - the Israeli Center for Text Analysis - with a CC BY-NC license.
 
-<div dir="rtl"></div>
+</div>
