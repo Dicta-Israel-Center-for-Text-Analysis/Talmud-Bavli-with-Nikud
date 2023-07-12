@@ -38,6 +38,7 @@
 
 טקסט מנוקד זה של התלמוד הבבלי משוחרר ברשיון CC BY-SA
 אם אתם משתמשים בטקסט מנוקד זה, נא ציינו: טקסט זה של התלמוד הבבלי נוקד על ידי דיקטה - המרכז הישראלי לניתוח טקסטים (www.dicta.org.il)
+
 This vocalized text of the Babylonian Talmud is released under a CC BY-SA license.
 If you make use of the text, please attribute as follows: This text of the Babylonian Talmud was vocalized by Dicta: The Israeli Center for Text Analysis (www.dicta.org.il)
 
