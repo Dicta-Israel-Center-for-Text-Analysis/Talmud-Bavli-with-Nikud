@@ -1,4 +1,4 @@
-<div dir="rtl" style="text-align:right;">
+<div dir="rtl">
     
 # תלמוד בבלי המנוקד
 פרויקט ניקוד התלמוד הבבלי הושלם בהצלחה! 
@@ -14,7 +14,7 @@
     
 
 ניתן למצוא את הטקסט המנוקד גם באחד מהמקומות הבאים:
-
+&#x202b;
 -   ספריא: https://www.sefaria.org.il
     
 -   על התורה: https://alhatorah.org
