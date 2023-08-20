@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" style="text-align:right;">
     
 # תלמוד בבלי המנוקד
 פרויקט ניקוד התלמוד הבבלי הושלם בהצלחה! 
