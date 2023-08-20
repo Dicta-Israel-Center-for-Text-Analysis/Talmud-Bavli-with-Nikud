@@ -14,12 +14,12 @@
     
 
 ניתן למצוא את הטקסט המנוקד גם באחד מהמקומות הבאים:
-&#x202b;
--   ספריא: https://www.sefaria.org.il
+
+&#x202b;-   ספריא: https://www.sefaria.org.il
     
--   על התורה: https://alhatorah.org
+&#x202b;-   על התורה: https://alhatorah.org
     
--   פורטל הדף היומי: https://www.daf-yomi.com
+&#x202b;-   פורטל הדף היומי: https://www.daf-yomi.com
     
 
 
